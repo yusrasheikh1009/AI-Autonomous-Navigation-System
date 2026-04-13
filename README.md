@@ -81,9 +81,7 @@ Start Position → Environment Mapping → Path Planning (A*) → Obstacle Avoid
 
 ### ▶️ Run Simulation
 
-```bash
 python main.py
-```
 
 ### 📊 Graph Output
 
@@ -93,7 +91,6 @@ python main.py
 
 ## 📁 Project Structure
 
-```
 AI-Autonomous-Navigation-System/
 │
 ├── simulation/
@@ -110,16 +107,24 @@ AI-Autonomous-Navigation-System/
 ├── README.md
 │
 ├── images/
+│   ├── simulation.png
+│   ├── graph.png
+│
 ├── videos/
-```
 
 ---
 
+## 📸 Results
+
 ### 🎮 Simulation Output
-![Simulation](images/simulation.png)
+
+<img src="images/simulation.png" width="600"/>
 
 ### 📊 Graph Visualization
-![Graph](images/graph.png)
+
+<img src="images/graph.png" width="600"/>
+
+---
 
 ## 🎯 Conclusion
 
@@ -152,3 +157,4 @@ It showcases:
 ---
 
 ⭐ If you like this project, give it a star!
+
