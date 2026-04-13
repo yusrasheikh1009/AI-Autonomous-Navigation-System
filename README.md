@@ -115,17 +115,11 @@ AI-Autonomous-Navigation-System/
 
 ---
 
-## 📸 Results
-
 ### 🎮 Simulation Output
-
 ![Simulation](images/simulation.png)
 
 ### 📊 Graph Visualization
-
 ![Graph](images/graph.png)
-
----
 
 ## 🎯 Conclusion
 
