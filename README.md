@@ -112,19 +112,13 @@ AI-Autonomous-Navigation-System/
 │
 ├── videos/
 
----
-
 ## 📸 Results
 
 ### 🎮 Simulation Output
-
-<img src="images/simulation.png" width="600"/>
+<img src="./images/simulation.png" width="600"/>
 
 ### 📊 Graph Visualization
-
-<img src="images/graph.png" width="600"/>
-
----
+<img src="./images/graph.png" width="600"/>
 
 ## 🎯 Conclusion
 
